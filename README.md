@@ -1,1 +1,1 @@
-# pytrain
+# repositoriy for tranign
