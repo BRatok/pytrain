@@ -1,1 +1,1 @@
-# repositoriy for tranign
+# repositoriy for tranignvhc
